@@ -1,4 +1,3 @@
-
 🌟 Currency Conversion Bot 🌟
 Welcome to the Currency Conversion Bot, your reliable assistant for real-time currency exchange rates! This Telegram bot seamlessly integrates cutting-edge technology to provide you with up-to-date conversion rates for popular currencies. It's user-friendly, responsive, and efficient—everything you need in a currency conversion tool.
 
